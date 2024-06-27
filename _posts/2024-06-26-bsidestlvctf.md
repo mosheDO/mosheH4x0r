@@ -116,10 +116,12 @@ so we can see `P4N7` but the image is called `items.png` and the key is `String 
 >       private static String k3 = "U1ci";
 ```
 
-![](https://raw.githubusercontent.com/mosheDO/mosheH4x0r/master/assets/2024-06-26/2024-06-26-125745.png)
 
 combing them all we get 
 `String ky = "P4N7H30nU1ci";` after running this we get this `c0de_pL4?_r3pea7`
+
+![](https://raw.githubusercontent.com/mosheDO/mosheH4x0r/master/assets/2024-06-26/2024-06-26-125745.png)
+
 the question mark doesn't fit so we change it to `y` `c0de_pL4y_r3pea7` adding the prefix and we got the flag
 
 `BSidesTLV2024{c0de_pL4y_r3pea7}`
